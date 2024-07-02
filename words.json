@@ -1,0 +1,12 @@
+{
+    "animals": ["elephant", "giraffe", "leopard", "penguin", "dolphin", "cheetah", "gorilla", "rhinoceros", "crocodile", "flamingo", "squirrel", "zebra"],
+    "fruits": ["apple", "grape", "peach", "banana", "orange", "strawberry", "pineapple", "mango", "watermelon", "papaya", "coconut", "apricot", "pomelo"],
+    "vegetables": ["carrot", "broccoli", "tomato", "cucumber", "potato", "onion", "lettuce", "spinach", "pepper", "eggplant", "squash"],
+    "furniture": ["chair", "table", "couch", "shelf", "wardrobe", "dresser", "ottoman", "zucchini", "cabinet", "armchair", "sideboard"],
+    "vehicles": ["bicycle", "truck", "motorcycle", "airplane", "helicopter", "scooter", "tractor", "ambulance", "trolley", "tanker"],
+    "clothing": ["shirt", "trouser", "dress", "jacket", "sweater", "blouse", "skirt", "blazer", "cardigan", "overcoat"],
+    "electronics": ["computer", "smartphone", "television", "camera", "printer", "tablet", "laptop", "microwave", "blender", "speaker", "projector"],
+    "sports": ["football", "basketball", "tennis", "soccer", "baseball", "volleyball","boxing", "swimming", "skiing", "archery", "cricket"],
+    "instruments": ["guitar", "piano", "violin", "trumpet", "flute", "clarinet", "saxophone", "trombone", "cello", "xylophone"],
+    "occupations": ["doctor", "teacher", "engineer", "lawyer", "nurse", "architect", "pilot", "scientist", "baker", "painter"]
+}
